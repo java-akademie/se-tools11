@@ -1,5 +1,6 @@
-package ch.jmildner.tools11;
+package ch.jmildner.tools11x;
 
+import ch.jmildner.tools11x.MyValidateTools;
 import org.junit.Assert;
 import org.junit.Test;
 

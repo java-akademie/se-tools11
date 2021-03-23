@@ -1,6 +1,7 @@
 
-package ch.jmildner.tools11;
+package ch.jmildner.tools11x;
 
+import ch.jmildner.tools11.MyTools;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;

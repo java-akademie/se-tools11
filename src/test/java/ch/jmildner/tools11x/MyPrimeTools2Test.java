@@ -1,5 +1,6 @@
-package ch.jmildner.tools11;
+package ch.jmildner.tools11x;
 
+import ch.jmildner.tools11x.MyPrimeTools;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
