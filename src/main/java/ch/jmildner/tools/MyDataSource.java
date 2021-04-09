@@ -78,7 +78,6 @@ import java.util.Properties;
  */
 public class MyDataSource
 {
-
     /**
      * Properties
      */
